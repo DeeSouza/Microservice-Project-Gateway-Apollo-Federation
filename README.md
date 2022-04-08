@@ -11,3 +11,6 @@ npm run start:dev
 
 ### Dependencies
 
+https://github.com/DeeSouza/Microservice-Project-Purchases
+https://github.com/DeeSouza/Microservice-Project-Classroom
+https://github.com/DeeSouza/Microservice-Project-Frontend-Web
